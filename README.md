@@ -1,3 +1,3 @@
-# niko-discord-bot
+# discord-bot-template
 
-A Discord bot in development.
+A Discord bot template setup for new development.
